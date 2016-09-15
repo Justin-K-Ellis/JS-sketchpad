@@ -1,0 +1,32 @@
+button {
+	margin: auto;
+	display: block;
+}
+
+div {
+	height: 20px;
+	width: 20px;
+	border-color: black 1px;
+	background-color: orange;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+.boxC {
+	height: 20px
+	width: 20px;
+	border-color: black 1px;
+	background-color: blue;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+#container {
+	height: 362px;
+	width: 362px;
+	background-color: white;
+	margin: 50px auto;
+}
+
+.unit {
+	float: left;
+	margin: 1px;
+}
